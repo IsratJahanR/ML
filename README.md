@@ -1,4 +1,5 @@
-Welcome to the Machine Learning Projects Repository! This repository contains multiple machine learning projects designed to solve various real-world problems, ranging from health-related predictions to email spam detection and more.
+Welcome to the Machine Learning Projects Repository! 
+This repository contains multiple machine learning projects designed to solve various real-world problems, ranging from health-related predictions to email spam detection and more.
 
 Table of Contents
 Repository Overview
