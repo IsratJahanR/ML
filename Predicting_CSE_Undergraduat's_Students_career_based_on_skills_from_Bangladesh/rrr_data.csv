@@ -1,0 +1,254 @@
+,cgpa,Critical Thinking,Problem Solving,Public Speaking,Professional Writing,Team Work,Leadership & Professional Attitude,Mass Communication,Software Engineering Principal,Data Structure & Algorithm,Database Management,Data Analysis skill,Web Developing Skill,Understanding of computer architecture & System,Understanding Operating System,Networking Concept,Cyber Security Skill,Machine Learning Skill,Robotics Skill,Research Skill,publication,project,Influencing Factor,Prefer Job
+0,3.84,2,2,1,1,3,2,2,2,3,2,2,1,1,1,0,0,1,0,2,1,2,Job Security,Software Development
+1,2.5,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,0,0,flaxible Work Life Balanced,Teaching
+2,3.34,2,2,2,1,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,0,2,Job Environment,Software Development
+3,3.78,2,2,1,2,2,2,2,1,2,2,1,1,2,2,2,1,1,1,1,0,1,Job Security,Software Development
+4,3,2,2,2,3,3,2,2,2,2,3,3,3,2,2,3,3,1,1,1,0,5,Salary,Software Development
+5,3.3,0,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,3,flaxible Work Life Balanced,Software Development
+6,3.3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,4,Job Security,Software Development
+7,3.1,2,2,1,2,1,1,1,2,2,2,3,1,2,2,2,2,3,1,1,0,2,Salary,Software Development
+8,3.91,1,1,2,1,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,Salary,Data Analysis
+9,3.25,2,1,2,1,2,2,1,1,2,2,2,3,2,2,2,1,2,0,2,0,5,Social Acceptance,Database Administration
+10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,flaxible Work Life Balanced,Business
+11,3.59,1,1,2,1,2,2,2,1,2,2,2,2,2,3,2,1,1,1,2,0,0,Social Acceptance,Software Development
+12,2.87,1,1,1,1,1,1,1,1,1,1,1,1,0,1,2,1,1,1,1,1,3,flaxible Work Life Balanced,BCS
+13,3,1,1,2,1,2,2,1,1,1,1,1,1,2,2,1,1,1,1,1,0,0,flaxible Work Life Balanced,Bank Job
+14,3.04,2,1,1,1,2,2,1,2,2,2,2,1,2,2,2,2,1,1,1,0,4,Job Security,Software Development
+15,3.7,2,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,2,1,1,0,1,Social Acceptance,Teaching
+16,3.271183673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other,Software Development
+17,3.02,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,0,1,Social Acceptance,Software Development
+18,3.27,2,2,1,1,2,2,1,1,2,2,1,2,1,1,2,1,1,1,1,0,3,"Social Acceptance,Job Security,flaxible Work Life Balanced","Software Development,Database Administration,ML/AI Engineer,Govt Job,Abroad"
+19,3.6,2,1,3,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,0,4,Salary,"Software Development,Networking,Cyber Security,Data Analysis,ML/AI Engineer,Business,Abroad"
+20,3.09,1,1,1,1,2,2,1,1,2,2,1,1,2,1,1,1,1,1,1,0,1,"Social Acceptance,Job Security,Job Environment,Salary","Software Development,Cyber Security,Database Administration,ML/AI Engineer,Abroad"
+21,3,1,2,2,2,2,2,2,2,1,1,1,2,1,1,2,1,1,1,2,2,4,flaxible Work Life Balanced,Software Development
+22,3.78,2,2,1,1,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,0,2,"Job Security,Job Environment,flaxible Work Life Balanced","Software Development,Networking,Data Analysis,ML/AI Engineer,Teaching,Researcher,Abroad"
+23,3.01,2,2,2,1,2,3,2,2,1,1,1,2,1,1,2,1,1,1,1,0,4,"Job Security,Job Environment,Salary","Software Development,Bank Job,Abroad"
+24,2.8,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Teaching,Bank Job,Govt Job"
+25,2.9,2,2,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,1,5,Social Acceptance,Software Development
+26,3.271183673,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,"Job Security,Salary,flaxible Work Life Balanced",Govt Job
+27,3.66,2,2,2,2,3,2,2,2,2,2,2,1,1,1,1,1,2,1,1,0,3,Job Environment,"Software Development,Cyber Security,ML/AI Engineer,Abroad"
+28,3.21,2,2,2,1,2,2,1,2,2,2,1,1,2,2,2,1,1,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Teaching,Business"
+29,3.66,2,2,1,1,2,2,1,2,2,2,1,3,2,1,1,1,1,1,1,0,3,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Researcher,Abroad"
+30,3.271183673,2,2,3,1,3,3,3,1,2,1,1,1,1,1,1,1,1,1,2,0,2,"Social Acceptance,Job Security,Job Environment,Salary","Teaching,BCS,Govt Job"
+31,3,2,2,3,1,2,2,3,1,1,2,1,1,1,1,1,1,1,1,1,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","ML/AI Engineer,Teaching,Bank Job,BCS"
+32,3.13,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,other,"Software Development,Other"
+33,3.61,1,1,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other,Software Development
+34,3.65,2,2,2,2,3,2,2,2,2,2,2,2,1,1,3,1,1,1,1,0,3,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+35,3.21,1,1,2,2,2,2,1,2,1,2,1,2,2,1,2,2,1,1,1,0,5,Job Security,"Software Development,Data Analysis,Govt Job,Other"
+36,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other,Software Development
+37,3.5,2,2,1,1,2,2,1,1,2,2,1,1,1,1,1,1,0,0,0,0,3,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Management,Business"
+38,0,2,2,1,2,3,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,flaxible Work Life Balanced,Software Development
+39,3.37,2,2,1,2,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Database Administration,Data Analysis,UI/UX Designing,Management,Bank Job,BCS,Govt Job,Abroad"
+40,4,1,1,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Cyber Security,Abroad"
+41,3.47,1,1,2,1,2,1,1,1,2,1,1,1,1,1,2,1,1,2,1,0,1,Salary,Networking
+42,3.96,3,3,2,3,3,3,3,2,2,3,3,2,2,2,1,1,3,1,3,1,5,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Data Analysis,ML/AI Engineer,Teaching,Researcher,Abroad"
+43,3.67,2,2,1,2,3,3,2,1,1,1,1,1,1,1,1,1,1,1,3,0,0,flaxible Work Life Balanced,Software Development
+44,3.3,2,2,1,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,1,0,1,Salary,Software Development
+45,3.41,2,2,1,2,2,2,2,2,2,3,2,3,2,3,3,2,2,2,2,0,5,other,Software Development
+46,2.83,2,1,1,1,2,2,2,1,2,1,1,1,1,1,1,1,1,1,1,0,1,"Job Security,Job Environment,flaxible Work Life Balanced","Cyber Security,Business,Abroad"
+47,2.98,1,2,2,2,3,1,2,1,2,1,2,1,1,1,1,2,2,0,2,1,1,"Job Security,Job Environment","Software Development,Cyber Security,Data Analysis,Management"
+48,3.01,1,2,2,1,2,1,1,1,2,2,1,2,1,1,2,1,1,2,1,1,2,"Social Acceptance,Job Security","Software Development,Networking,Cyber Security,Data Analysis"
+49,3.16,1,2,2,1,1,2,1,2,2,1,1,1,1,2,2,2,1,1,2,1,1,"Social Acceptance,Job Security","Software Development,Cyber Security,Data Analysis"
+50,2.92,2,2,2,1,2,2,1,2,2,2,2,1,1,2,1,1,1,1,2,2,2,Social Acceptance,Software Development
+51,3.22,3,3,1,2,2,2,2,1,2,2,1,2,3,1,1,2,2,2,1,3,1,flaxible Work Life Balanced,Abroad
+52,1.6,2,2,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,Job Security,ML/AI Engineer
+53,3.4,2,3,1,1,2,2,1,1,3,1,1,1,1,1,1,1,1,1,1,0,1,"Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer"
+54,3.55,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,0,2,"Salary,flaxible Work Life Balanced","Software Development,Teaching,Govt Job,Abroad"
+55,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,Salary,Software Development
+56,3.33,2,2,1,1,2,2,1,2,2,2,2,1,2,1,2,2,2,2,2,1,2,other,"Software Development,Data Analysis"
+57,3.17,2,2,2,1,2,1,1,1,1,1,2,2,1,2,1,2,0,1,1,1,1,Social Acceptance,"Bank Job,Govt Job"
+58,3.57,2,2,1,1,1,1,1,1,2,1,1,2,1,2,1,1,1,1,1,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+59,3.79,1,1,3,2,2,2,3,1,2,1,1,1,2,1,1,1,1,1,1,0,0,Salary,Researcher
+60,3.52,2,2,2,1,2,2,1,1,3,3,2,2,2,1,1,1,1,1,1,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Teaching"
+61,3.59,2,2,2,1,2,2,2,2,2,2,1,1,2,1,0,2,0,0,0,0,0,"Job Environment,Salary,flaxible Work Life Balanced","Database Administration,Teaching,Abroad"
+62,3.6,1,1,2,1,2,2,2,1,2,1,1,1,2,2,1,2,1,1,1,0,0,Salary,Business
+63,3.54,2,1,2,1,2,1,2,1,2,2,1,1,1,1,1,1,1,1,1,0,0,Social Acceptance,"Software Development,Data Analysis,ML/AI Engineer,Abroad"
+64,3.47,1,1,1,1,1,1,1,1,2,1,1,0,0,0,0,0,0,0,0,0,3,Job Security,Software Development
+65,3.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,Salary,Business
+66,3.2,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,1,4,Job Environment,Software Development
+67,3.64,2,2,1,1,2,2,1,2,2,2,1,2,2,2,1,1,1,1,1,0,0,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Researcher"
+68,3.7,1,1,1,1,2,2,2,2,1,1,1,2,1,1,1,1,1,2,1,0,3,Social Acceptance,Abroad
+69,3.3,2,2,1,1,2,2,1,2,2,2,1,1,1,2,1,1,2,2,1,0,3,"Job Security,Salary",Govt Job
+70,3.84,2,2,2,1,3,2,2,1,2,1,1,1,1,1,1,1,1,1,1,0,2,Job Security,Software Development
+71,3.08,1,2,1,2,1,2,1,1,1,2,2,1,1,2,2,2,2,1,2,2,1,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+72,3.25,1,2,2,2,1,2,2,1,1,2,1,1,1,1,1,1,1,1,1,2,3,Job Environment,Abroad
+73,3.56,2,2,2,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,0,5,"Job Environment,Salary,flaxible Work Life Balanced",Software Development
+74,3,2,3,2,2,3,3,2,2,2,2,2,1,1,2,1,1,1,1,1,0,3,Job Security,Software Development
+75,3.2,1,1,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,4,other,Software Development
+76,3.4,3,2,1,2,3,3,2,2,2,2,2,2,2,2,2,2,2,3,3,1,1,Job Security,Management
+77,2.88,1,2,1,2,2,2,2,1,1,2,2,2,3,3,1,1,1,1,1,0,2,Social Acceptance,Software Development
+78,3.73,2,2,1,1,2,2,1,1,3,3,1,3,1,1,1,1,1,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+79,3.65,1,2,2,2,2,2,2,2,2,2,1,1,1,0,2,2,2,2,2,0,2,"Job Security,Job Environment,Salary","Software Development,Cyber Security"
+80,3.55,1,2,1,1,2,2,2,1,1,2,2,2,1,2,1,1,0,1,1,2,2,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+81,3.22,1,2,1,2,1,1,1,2,2,1,2,1,1,2,2,2,1,1,2,2,3,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+82,3.271183673,2,2,1,1,2,2,3,2,3,2,1,1,1,1,1,1,1,1,1,0,0,other,Software Development
+83,3.2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,9,other,Software Development
+84,3.15,3,3,2,2,3,2,1,2,3,3,1,2,2,3,2,2,2,2,2,0,4,"Job Security,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security"
+85,3,2,2,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,5,Job Security,"Software Development,Other"
+86,3.91,2,2,1,2,3,2,2,2,2,2,2,3,2,2,1,2,3,2,3,0,4,"Social Acceptance,Job Security,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Gaming"
+87,3.63,1,2,2,3,3,3,2,2,2,2,2,3,2,2,2,2,1,1,1,0,10,"Social Acceptance,Job Security,flaxible Work Life Balanced",Software Development
+88,3.16,1,2,1,1,1,1,2,1,1,2,1,1,1,2,1,2,2,1,1,2,2,"Social Acceptance,Job Security,Job Environment","Networking,Cyber Security"
+89,3.67,3,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Database Administration,Data Analysis,UI/UX Designing,ML/AI Engineer,Hardware Sector,Gaming,Management,Teaching,Researcher,Bank Job,BCS,Business,Govt Job,Abroad"
+90,3.15,2,1,2,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,flaxible Work Life Balanced,"Software Development,Database Administration,Management"
+91,3.41,3,2,2,3,3,3,2,3,2,3,2,3,3,3,3,3,2,2,2,0,7,"Job Security,Job Environment,Salary","Software Development,Data Analysis"
+92,3.52,2,2,2,1,3,2,3,2,2,2,2,1,3,2,3,2,2,2,2,1,2,"Social Acceptance,Job Security,Salary","Software Development,Cyber Security,Abroad"
+93,3.54,2,1,1,1,2,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Researcher,Abroad"
+94,3.32,2,2,2,1,2,2,2,1,2,1,1,0,1,1,1,1,1,1,1,0,2,Salary,Software Development
+95,3.7,3,3,1,1,2,2,2,2,2,2,1,1,2,2,1,1,1,1,1,0,2,"Social Acceptance,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Abroad"
+96,3.69,2,1,1,1,2,2,2,2,2,2,1,2,2,2,2,1,1,1,1,0,2,Salary,Teaching
+97,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,"Social Acceptance,Job Security,Salary,flaxible Work Life Balanced","Bank Job,BCS,Govt Job"
+98,3,1,1,1,1,2,1,1,2,2,2,1,2,2,2,2,1,1,1,1,0,4,"Social Acceptance,Job Environment",Software Development
+99,3.62,2,1,1,2,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Job Security,Cyber Security
+100,2.93,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,flaxible Work Life Balanced,Software Development
+101,3.25,2,2,1,2,2,2,1,2,2,2,1,2,1,1,2,2,2,1,1,0,3,"Social Acceptance,Job Environment","Software Development,Teaching,Govt Job"
+102,3.48,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,Job Environment,Teaching
+103,3,2,1,2,2,2,2,2,2,2,2,1,1,2,2,2,1,2,2,1,0,3,Social Acceptance,Govt Job
+104,3.81,2,1,1,2,2,2,2,2,1,1,2,2,0,0,0,1,0,0,0,0,2,Job Environment,Teaching
+105,3.25,3,3,1,2,3,3,2,3,3,2,2,3,2,2,2,2,2,2,1,0,4,"Social Acceptance,Job Security,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer"
+106,3.3,1,1,2,2,3,3,3,2,2,3,2,2,3,3,3,2,1,1,2,0,4,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Bank Job"
+107,3.51,1,1,1,1,1,1,2,2,2,1,1,1,2,2,2,2,1,0,1,0,2,Salary,Software Development
+108,3.48,2,1,1,2,2,0,0,0,2,1,2,2,0,0,0,0,0,0,0,0,2,Job Security,Govt Job
+109,3.48,2,2,3,3,3,2,3,2,3,3,2,1,3,3,3,1,2,1,1,0,5,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Networking,Data Analysis,Management,Bank Job,BCS,Govt Job,Abroad"
+110,3.22,2,2,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,0,0,0,1,Job Security,Software Development
+111,3.85,3,3,2,1,2,2,1,2,3,3,1,1,2,2,1,1,1,1,1,0,1,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Abroad"
+112,3.41,2,1,1,1,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,"Social Acceptance,Job Security,Job Environment,Salary","Bank Job,BCS,Govt Job,Abroad"
+113,3.271183673,2,2,2,1,2,2,2,2,2,2,1,2,2,2,2,1,1,1,1,0,4,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Business"
+114,3,1,1,2,0,2,3,0,0,1,1,0,0,2,1,0,0,0,1,0,0,1,Job Environment,Software Development
+115,3.1,2,3,2,2,1,1,1,2,3,1,1,1,2,1,2,1,1,1,1,0,2,"Job Security,flaxible Work Life Balanced","Software Development,Database Administration,Data Analysis,ML/AI Engineer,Abroad"
+116,3.3,2,3,2,1,3,2,2,2,2,2,1,2,2,1,2,1,1,1,2,0,2,Job Security,Software Development
+117,3,2,2,1,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,0,3,"Job Security,Job Environment,Salary","Software Development,Data Analysis,ML/AI Engineer"
+118,3.4,1,0,2,1,1,1,2,2,1,2,1,1,2,2,2,2,2,1,1,0,2,flaxible Work Life Balanced,ML/AI Engineer
+119,3,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,3,Job Environment,"Database Administration,Data Analysis"
+120,3.21,2,2,1,1,2,2,2,2,2,2,2,2,2,3,3,2,1,1,1,0,11,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Bank Job,BCS,Govt Job"
+121,3.5,2,1,1,2,2,2,2,1,1,1,1,1,2,1,1,1,1,1,1,0,1,Job Security,Govt Job
+122,3.24,2,2,2,1,2,2,2,1,2,2,2,1,2,2,2,1,2,1,1,0,5,"Job Environment,Salary,flaxible Work Life Balanced","ML/AI Engineer,Abroad"
+123,2.85,3,2,3,1,3,3,3,0,0,0,3,2,2,2,2,0,0,0,0,0,5,flaxible Work Life Balanced,"Software Development,Teaching,Bank Job,Business,Govt Job"
+124,3.39,2,2,1,1,2,1,1,2,2,2,1,2,2,1,2,1,1,1,1,0,4,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Abroad"
+125,3,1,1,1,2,2,2,3,2,1,2,1,3,0,1,1,1,1,1,1,0,2,"Job Security,Salary",Software Development
+126,2.74,2,1,3,2,1,2,2,1,1,1,2,2,1,1,1,1,0,1,1,0,2,"Social Acceptance,Job Security,Salary","Software Development,Data Analysis,Abroad"
+127,2.8,2,2,2,2,2,2,2,2,1,2,1,1,2,3,2,1,1,2,2,0,6,"Job Security,Job Environment,Salary","Software Development,Database Administration,Data Analysis,Gaming,Teaching,Bank Job,Govt Job,Abroad"
+128,3,1,1,2,2,2,1,1,2,2,2,2,1,1,1,1,1,1,1,1,0,2,Job Security,Software Development
+129,3,2,2,1,2,2,2,2,2,2,2,1,2,1,2,2,2,1,1,1,0,4,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Cyber Security,Data Analysis,ML/AI Engineer,Business,Other"
+130,2.8,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,3,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security"
+131,3.42,2,1,2,2,2,1,1,2,2,2,1,3,2,2,2,1,1,1,1,7,8,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Data Analysis"
+132,3.43,2,2,3,3,2,2,3,1,1,1,1,2,1,1,1,1,1,1,1,0,4,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Data Analysis,Management,Business,Abroad"
+133,3.5,2,3,1,3,2,2,1,2,2,3,2,3,3,3,2,2,3,2,1,0,5,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Gaming"
+134,3.83,2,2,2,1,2,2,2,2,2,2,2,2,2,1,2,1,1,1,1,0,5,flaxible Work Life Balanced,Software Development
+135,3.6,3,2,1,2,3,2,1,2,2,3,2,1,2,2,2,2,2,1,2,0,4,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Data Analysis,ML/AI Engineer,Teaching,Abroad"
+136,3,3,3,1,1,3,3,2,2,3,2,3,1,1,1,1,0,2,0,2,0,2,Salary,"Software Development,Data Analysis,ML/AI Engineer,Business,Abroad"
+137,3,2,1,2,2,1,1,1,0,2,2,1,1,2,2,0,1,1,0,0,0,0,"Social Acceptance,flaxible Work Life Balanced","Business,Govt Job"
+138,3.25,2,2,2,1,1,2,1,2,3,3,1,2,1,2,2,1,1,1,1,0,2,"Job Environment,Salary","Software Development,Database Administration"
+139,2.87,2,1,2,2,2,1,1,1,2,2,2,1,1,1,2,2,1,1,1,0,1,Social Acceptance,"Database Administration,Hardware Sector,Teaching,Bank Job,BCS,Govt Job"
+140,3.82,2,2,1,1,1,1,1,2,2,2,1,1,2,2,2,1,1,1,2,0,1,"Job Security,Salary","Researcher,Abroad"
+141,3.46,1,1,1,2,2,1,1,2,1,2,1,1,2,1,1,2,1,1,1,0,0,Social Acceptance,Software Development
+142,3.21,2,2,1,1,2,2,2,1,1,1,2,2,2,3,2,1,1,1,1,0,11,"Job Security,Salary,flaxible Work Life Balanced","Software Development,Bank Job,BCS,Govt Job"
+143,2.75,3,2,2,1,2,1,2,2,2,1,2,2,2,2,2,1,1,1,2,0,4,Job Security,"BCS,Govt Job"
+144,3.271183673,2,2,2,1,2,2,2,2,2,2,1,1,2,2,2,1,2,1,2,1,5,"Job Security,Salary,flaxible Work Life Balanced","Cyber Security,Researcher,BCS,Govt Job"
+145,3.49,1,1,2,1,1,1,1,1,2,3,1,3,2,2,1,1,1,1,1,0,5,"Job Security,Salary,flaxible Work Life Balanced","Software Development,Database Administration,Govt Job"
+146,3.55,3,3,2,2,0,2,3,3,3,3,2,3,1,0,1,1,2,0,2,1,3,Social Acceptance,Software Development
+147,3.85,2,2,3,2,2,2,2,1,1,2,2,1,1,1,2,1,2,0,3,3,0,Social Acceptance,"Researcher,Abroad"
+148,3.11,3,3,2,1,3,2,2,0,3,3,2,3,0,2,1,1,1,1,1,0,4,Social Acceptance,"Software Development,Database Administration"
+149,3.5,2,1,3,2,2,3,2,1,1,1,1,1,2,1,1,1,1,1,2,1,1,Job Security,"Bank Job,BCS,Govt Job"
+150,2.98,3,3,3,1,3,2,2,3,3,3,2,3,2,2,2,1,2,2,1,0,5,"Social Acceptance,Job Environment","Software Development,Database Administration"
+151,3.8,3,3,2,2,3,3,2,2,2,1,3,1,2,2,2,1,3,3,3,5,1,Social Acceptance,"Researcher,Abroad"
+152,3.5,3,3,3,2,3,2,1,3,3,3,2,3,2,2,1,1,1,1,1,1,5,Job Security,"Software Development,Database Administration,Data Analysis"
+153,3.1,3,3,2,2,3,2,2,2,2,1,1,2,2,2,1,1,1,1,2,0,5,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Gaming"
+154,2.89,2,2,2,1,2,2,2,2,1,2,1,2,2,2,2,1,1,1,1,0,6,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+155,2.92,2,2,2,1,2,3,3,2,2,3,1,3,2,2,1,1,2,2,1,0,5,flaxible Work Life Balanced,Software Development
+156,3.08,3,2,3,2,2,2,3,2,2,2,2,3,3,2,2,1,2,2,2,0,5,"Social Acceptance,Job Security,flaxible Work Life Balanced","Software Development,Management,Teaching,Govt Job"
+157,2.7,1,1,2,1,1,1,2,1,2,2,1,1,1,1,2,2,2,2,1,0,6,Social Acceptance,BCS
+158,3.39,2,1,3,2,2,2,2,2,2,1,2,1,1,2,2,0,2,1,2,0,4,"Job Environment,Salary","Software Development,Teaching,Business,Abroad"
+159,2.76,2,1,2,2,2,2,2,2,2,2,3,2,2,1,1,1,2,1,1,0,4,"Social Acceptance,Job Security,Salary","Software Development,Data Analysis,Abroad"
+160,2.95,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,4,"Job Security,Salary","Software Development,Abroad"
+161,3,1,1,2,2,2,2,3,2,2,3,2,3,1,2,2,1,2,2,1,2,6,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Database Administration,Data Analysis,UI/UX Designing,ML/AI Engineer,Abroad,Other"
+162,3.83,2,1,2,2,3,3,2,1,1,2,2,1,1,1,1,1,1,1,3,5,0,"Job Security,flaxible Work Life Balanced",Abroad
+163,3.18,2,2,1,1,1,1,1,2,2,3,2,1,2,2,3,2,2,1,1,0,4,"Job Security,flaxible Work Life Balanced","Software Development,Database Administration,Data Analysis,ML/AI Engineer,Gaming"
+164,3.34,1,1,1,1,2,2,1,1,1,1,1,1,1,1,2,1,1,1,1,0,3,"Social Acceptance,flaxible Work Life Balanced",BCS
+165,3.38,3,3,2,1,3,1,1,3,3,3,2,3,1,1,1,2,2,1,1,0,5,Social Acceptance,"Software Development,Database Administration"
+166,3.55,3,1,3,3,3,3,3,1,1,1,1,1,1,2,1,1,1,1,2,0,0,Job Security,"Bank Job,BCS,Govt Job"
+167,3.92,3,1,3,3,3,3,3,2,2,1,1,1,3,3,1,1,1,1,3,5,1,flaxible Work Life Balanced,Abroad
+168,2.92,3,3,3,2,3,2,2,3,3,3,2,3,2,3,2,1,2,2,1,0,5,Job Security,"Software Development,Database Administration"
+169,3.05,1,2,2,2,2,2,2,2,1,1,1,2,1,1,2,1,1,1,2,2,4,flaxible Work Life Balanced,Software Development
+170,3.78,2,2,1,2,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,0,2,"Job Security,Job Environment,flaxible Work Life Balanced","Software Development,Networking,Data Analysis,ML/AI Engineer,Teaching,Researcher,Abroad"
+171,3.01,2,2,2,2,2,3,2,2,1,1,1,2,1,1,2,1,1,1,1,0,4,"Job Security,Job Environment,Salary","Software Development,Bank Job,Abroad"
+172,3.12,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Teaching,Bank Job,Govt Job"
+173,2.9,2,2,3,2,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,1,5,Social Acceptance,Software Development
+174,3.271183673,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,"Job Security,Salary,flaxible Work Life Balanced",Govt Job
+175,3.66,2,2,2,2,3,2,2,2,2,2,2,1,1,1,1,1,2,1,1,0,3,Job Environment,"Software Development,Cyber Security,ML/AI Engineer,Abroad"
+176,3.21,2,2,2,1,2,2,1,2,2,2,1,1,2,2,2,1,1,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Teaching,Business"
+177,3.66,2,2,1,1,2,2,1,2,2,2,1,3,2,1,1,1,1,1,1,0,3,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Researcher,Abroad"
+178,3.271183673,2,2,3,1,3,3,3,1,2,1,1,1,1,1,1,1,1,1,2,0,2,"Social Acceptance,Job Security,Job Environment,Salary","Teaching,BCS,Govt Job"
+179,3,2,2,3,1,2,2,3,1,1,2,1,1,1,1,1,1,1,1,1,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","ML/AI Engineer,Teaching,Bank Job,BCS"
+180,3.13,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,other,"Software Development,Other"
+181,3.61,3,1,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other,Software Development
+182,3.65,1,2,2,2,3,2,2,2,2,2,2,2,1,1,3,1,1,1,1,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+183,3.21,3,1,2,2,2,2,1,2,1,2,1,2,2,1,2,2,1,1,1,0,5,Job Security,"Software Development,Data Analysis,Govt Job,Other"
+184,3.54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other,Software Development
+185,3.5,1,2,1,1,2,2,1,1,2,2,1,1,1,1,1,1,0,0,0,0,3,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Management,Business"
+186,1.75,2,2,1,2,3,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,flaxible Work Life Balanced,Software Development
+187,3.37,0,2,1,2,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Database Administration,Data Analysis,UI/UX Designing,Management,Bank Job,BCS,Govt Job,Abroad"
+188,4,2,1,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Cyber Security,Abroad"
+189,3.43,1,1,2,1,2,1,1,1,2,1,1,1,1,1,2,1,1,2,1,0,1,Salary,Networking
+190,3.96,3,3,2,3,3,3,3,2,2,3,3,2,2,2,1,1,3,1,3,1,5,"Job Security,Job Environment,Salary,flaxible Work Life Balanced","Data Analysis,ML/AI Engineer,Teaching,Researcher,Abroad"
+191,3.67,2,2,1,2,3,3,2,1,1,1,1,1,1,1,1,1,1,1,3,0,0,flaxible Work Life Balanced,Software Development
+192,3.3,2,2,1,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,1,0,1,Salary,Software Development
+193,3.43,2,2,1,2,2,2,2,2,2,3,2,3,2,3,3,2,2,2,2,0,5,Salary,Software Development
+194,3.49,1,3,1,2,2,2,2,2,2,3,2,3,2,3,3,2,2,2,2,0,5,flaxible Work Life Balanced,"Software Development,Cyber Security,Business"
+195,2.83,2,1,1,1,2,2,2,1,2,1,1,1,1,1,1,1,1,1,1,0,1,"Job Security,Job Environment,flaxible Work Life Balanced","Cyber Security,Business,Abroad"
+196,2.98,2,2,2,2,3,2,2,1,2,1,2,1,1,1,1,2,2,0,2,1,1,"Job Security,Job Environment","Software Development,Cyber Security,Data Analysis,Management"
+197,3.2,2,2,2,1,2,1,1,1,2,2,1,2,1,1,2,1,1,2,1,1,2,"Social Acceptance,Job Security","Software Development,Networking,Cyber Security,Data Analysis"
+198,3.16,1,2,2,1,1,2,1,2,2,1,1,1,1,2,2,2,1,1,2,1,1,"Social Acceptance,Job Security","Software Development,Cyber Security,Data Analysis"
+199,2.92,2,2,2,1,2,2,1,2,2,2,2,1,1,2,1,1,1,1,2,2,2,Social Acceptance,Software Development
+200,3.22,3,2,2,1,2,2,2,1,2,2,1,2,3,1,1,2,2,1,1,3,1,flaxible Work Life Balanced,Abroad
+201,1.6,2,2,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,Job Security,ML/AI Engineer
+202,3.41,2,3,1,1,2,2,1,1,3,1,1,1,1,1,1,1,1,1,1,0,1,"Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer"
+203,3.5,2,2,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,0,2,"Salary,flaxible Work Life Balanced","Software Development,Abroad"
+204,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,Salary,Software Development
+205,3.4,2,2,1,1,2,2,1,2,2,2,2,1,2,1,2,2,2,2,2,1,3,"Salary,flaxible Work Life Balanced","Software Development,Data Analysis"
+206,3.17,2,2,2,1,2,1,1,1,1,1,2,2,1,2,1,2,0,1,1,1,1,Social Acceptance,"Bank Job,Govt Job"
+207,3.58,2,2,1,1,1,1,1,1,2,1,1,2,1,2,1,1,1,1,1,0,6,"Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+208,3.79,1,1,3,2,2,2,3,1,2,1,1,1,2,1,1,1,1,1,1,0,0,Salary,Researcher
+209,3.52,2,2,2,1,2,2,1,1,3,3,2,2,2,1,1,1,1,1,1,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Teaching"
+210,3.59,2,2,2,1,2,2,2,2,2,2,1,1,2,1,0,2,0,0,0,0,0,"Job Environment,Salary,flaxible Work Life Balanced","Database Administration,Teaching,Abroad"
+211,3.6,1,1,2,1,2,2,2,1,2,1,1,1,2,2,1,2,1,1,1,0,0,Salary,Business
+212,3.6,2,1,2,1,2,1,2,1,2,2,1,1,1,1,1,1,1,0,0,0,2,Social Acceptance,"Software Development,Data Analysis,ML/AI Engineer,Abroad"
+213,3.47,1,1,1,1,1,1,1,1,2,1,1,0,0,0,0,0,0,0,0,0,3,Job Security,Software Development
+214,3.5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,Salary,"Business,Abroad"
+215,3.2,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,1,4,Job Environment,Software Development
+216,3.64,2,2,1,1,2,2,1,2,2,2,1,2,2,2,1,1,1,1,1,0,0,"Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Researcher"
+217,3.7,2,1,1,1,2,2,2,2,1,1,1,2,1,1,1,1,1,2,1,0,3,Social Acceptance,Abroad
+218,3.3,2,2,1,1,2,2,1,2,2,2,1,1,1,2,1,1,2,2,1,0,3,"Job Security,Salary",Govt Job
+219,3.89,2,2,2,1,3,2,2,1,2,1,1,1,1,1,1,1,1,1,1,0,2,Job Security,Software Development
+220,3.09,1,2,1,2,1,2,1,1,1,2,2,1,1,2,2,2,2,1,2,2,1,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+221,3.26,1,2,2,2,1,2,2,1,1,2,1,1,1,1,1,1,1,1,1,2,3,Job Environment,Abroad
+222,3.56,2,2,2,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,0,10,"Job Environment,Salary,flaxible Work Life Balanced",Software Development
+223,3,2,3,2,2,3,3,2,2,2,2,2,1,1,2,1,1,1,1,1,0,3,Job Security,Software Development
+224,3.2,1,1,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,0,4,other,Software Development
+225,3.4,3,2,1,2,3,3,2,2,2,2,2,2,2,2,2,2,2,3,3,1,1,Job Security,Management
+226,2.88,1,2,1,2,2,2,2,1,1,2,2,2,3,3,1,1,1,1,1,0,2,Social Acceptance,Software Development
+227,3.71,2,2,1,1,2,2,1,1,3,3,1,3,1,1,1,1,1,1,1,0,2,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced",Software Development
+228,3.66,1,2,2,2,2,2,2,2,2,2,1,1,1,0,2,2,2,2,2,0,2,"Job Security,Job Environment,Salary","Software Development,Cyber Security"
+229,3.57,1,2,1,1,2,2,2,1,1,2,2,2,1,2,1,1,0,1,1,2,2,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+230,3.27,1,2,1,2,1,1,1,2,2,1,2,1,1,2,2,2,1,1,2,2,3,"Social Acceptance,Job Security,Job Environment","Software Development,Networking,Cyber Security,Data Analysis"
+231,3.33,2,2,1,1,2,2,3,2,3,2,1,1,1,1,1,1,1,1,1,0,0,other,Software Development
+232,3.2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,9,other,Software Development
+233,3.15,3,3,2,2,3,2,1,2,3,3,1,2,2,3,2,2,2,2,2,0,4,"Job Security,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security"
+234,3,2,2,2,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,5,Job Security,"Software Development,Other"
+235,3.91,2,2,1,2,3,2,2,2,2,2,2,3,2,2,1,2,3,2,3,0,4,"Social Acceptance,Job Security,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Gaming"
+236,3.63,1,2,2,3,3,3,2,2,2,2,2,3,2,2,2,2,1,1,1,0,10,"Social Acceptance,Job Security,flaxible Work Life Balanced",Software Development
+237,3.16,1,2,1,1,1,1,2,1,1,2,1,1,1,2,1,2,2,1,1,2,2,"Social Acceptance,Job Security,Job Environment","Networking,Cyber Security"
+238,3.67,3,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,0,5,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,Networking,Cyber Security,Database Administration,Data Analysis,UI/UX Designing,ML/AI Engineer,Hardware Sector,Gaming,Management,Teaching,Researcher,Bank Job,BCS,Business,Govt Job,Abroad,Other"
+239,3.15,2,1,2,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,flaxible Work Life Balanced,"Software Development,Database Administration,Management"
+240,3.41,3,2,2,3,3,3,2,3,2,3,2,3,3,3,3,3,2,2,2,0,7,"Job Security,Job Environment,Salary","Software Development,Data Analysis"
+241,3.52,2,2,2,1,3,2,3,2,2,2,2,1,3,2,3,2,2,2,2,1,2,"Social Acceptance,Job Security,Salary","Software Development,Cyber Security,Abroad"
+242,3.54,2,2,1,1,2,2,1,0,2,1,1,0,1,0,0,0,0,0,0,0,1,"Social Acceptance,Job Security,Job Environment,Salary,flaxible Work Life Balanced","Software Development,ML/AI Engineer,Researcher,Abroad"
+243,3.32,2,2,2,1,2,2,2,1,2,1,1,0,1,1,1,1,1,1,1,0,2,"Salary,Job Security",Software Development
+244,3.71,3,3,1,1,2,2,2,2,2,2,1,1,2,2,1,1,1,1,1,0,2,"Social Acceptance,Job Environment,Salary","Software Development,Abroad"
+245,3.69,2,2,1,1,2,2,2,2,2,2,1,2,2,2,2,1,1,1,1,0,2,Salary,Teaching
+246,3.25,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,2,"Social Acceptance,Job Security,Salary,flaxible Work Life Balanced","Bank Job,BCS,Govt Job"
+247,3,2,1,1,1,2,1,1,2,2,2,1,2,2,2,2,1,1,1,1,0,4,"Social Acceptance,Job Environment",Software Development
+248,3.62,2,1,1,2,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Job Security,Cyber Security
+249,2.93,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,flaxible Work Life Balanced,Software Development
+250,3.26,2,2,1,2,2,2,1,2,2,2,2,2,1,1,2,2,2,1,1,0,3,"Social Acceptance,Job Environment","Software Development,Teaching,Govt Job"
+251,3.48,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,0,2,Job Environment,Teaching
+252,3.66,2,2,3,2,2,2,1,2,2,2,3,3,1,1,1,0,2,0,0,1,5,"Job Environment,Salary","Software Development,Data Analysis,ML/AI Engineer"
